@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Badetidssystemet", "Badetidssystemet\Badetidssystemet.csproj", "{52755982-B432-4984-A9E4-A1209F75A2AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52755982-B432-4984-A9E4-A1209F75A2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52755982-B432-4984-A9E4-A1209F75A2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52755982-B432-4984-A9E4-A1209F75A2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52755982-B432-4984-A9E4-A1209F75A2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2A4D760-A123-4FD7-9C40-49F01A122B49}
+	EndGlobalSection
+EndGlobal
